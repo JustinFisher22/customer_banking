@@ -33,4 +33,4 @@ def main():
     print(f"Updated CD account balance: ${updated_cd_balance:,.2f}")
 
 if __name__ == "__main__":
-    # Call the main function.
+    main()
